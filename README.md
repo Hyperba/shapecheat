@@ -2,7 +2,13 @@
 The Most Advanced Geometry Calculator!
 
 ## Description
-This folder contains files for shapes and is already functioning well. Editing the code is unneccessary though the code is entirely free to use and licensed under Creative Commons
+This folder contains files for shapes and is already functioning well. Editing the code is unneccessary though the code is entirely free to use and licensed under Creative Commons. This project is meant to speed up your job and do for you the calculations that take time. It can work out:
+- Volume
+- Surface Area
+- Lateral Surface Area
+- Slant Height
+
+Depending on the shape you choose. Project is still on BETA and is not fully released meaning there is room for improvement, and the code can definitely become more functional and flexible.
 
 ## Use
 You must first download the file or clone the repository
@@ -22,4 +28,3 @@ Note: Before you use the above code, make sure your directory was already change
 
 ### Downloading File
 Scroll up and click on that download button. It will be downloaded as a ZIP where you will have to extract the files. Once extracted, you can double tap the file of the shape you want to use
-## License
